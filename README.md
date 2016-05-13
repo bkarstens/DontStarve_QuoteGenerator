@@ -5,7 +5,7 @@ Requires Python 3.x.x
 
 INSTRUCTIONS:
 
-0. Get newest version of strings.pot and stringsDST.pot from the game files of Don't Starve and the game files of DST: scripts/languages/strings.pot (two different "scripts" directories; both files named stings.pot, DST file should be renamed stringsDST.pot).
+0. Get newest version of strings.pot and stringsDST.pot from the game files of Don't Starve and the game files of DST: scripts/languages/strings.pot (Two different "scripts" directories. Both files named stings.pot; DST file should be renamed stringsDST.pot).
 
 1. Go to the wiki quotes page for the character you want to add to (e.x. Wigfrid).
 
